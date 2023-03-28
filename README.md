@@ -36,25 +36,25 @@ We demonstrated out Visualization using Chloropleth Map. A Choropleth Map is a m
    
    This is the plot which shows how population is distributed among switzerland
 
-![Test Image 2](reports/img/population_density.jpg)
+![Test Image 2](reports/img/population_density.png)
    
    Average Income of Zurich canton 
 
-![Test Image 3](reports/img/avg_income_Zurich.jpg)
+![Test Image 3](reports/img/avg_income_Zurich.png)
    
    GDP per Kantone 
 
-![Test Image 4](reports/img/GDP_per_canton.jpg)  
+![Test Image 4](reports/img/GDP_per_canton.png)  
   
    2.Approach through presence of other stores (competitors)in each Commune
    
    Showing the N number of Supermarkets per 1000 residents
 
-![Test Image 5](reports/img/asm.jpg)
+![Test Image 5](reports/img/asm.png)
    
    Showing only the big chain supermarkets per 1000 residents
 
-![Test Image 6](reports/img/bsm.jpg)
+![Test Image 6](reports/img/bsm.png)
 
 ## Conclusion
    Based the analysis, it was estimated that there might be population increase in future in particualar areas. Hence we recommended to locate Migros stores in Zürich , Nothern Bern and Basel canton area.
