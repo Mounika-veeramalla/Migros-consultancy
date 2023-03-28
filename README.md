@@ -57,7 +57,7 @@ We demonstrated out Visualization using Chloropleth Map. A Choropleth Map is a m
 ![Test Image 6](reports/img/bsm.png)
 
 ## Conclusion
-   Based the analysis, it was estimated that there might be population increase in future in particualar areas. Hence we recommended to locate Migros stores in Zürich , Nothern Bern and Basel canton area.
+   Based on the above analysis, it was estimated that there might be population increase in future in particualar areas. Hence we recommended to locate Migros stores in Zürich , Nothern Bern and Basel canton area.
 
 
 
