@@ -3,11 +3,11 @@
 ## Project Introduction
    The purpose of this project was to identify the locations of Migros supermarkets and their competitors in Bern, Switzerland in order to find potentially interesting places to construct new Migros supermarkets. We broke down the problem into 3 steps:
     
-   1.Retrieve the supermarket locations via Google Maps API.
+1.Retrieve the supermarket locations via Google Maps API.
     
-   2.Plot them on Google Maps.
+2.Plot them on Google Maps.
     
-   3.Analyze market opportunities based on the density of existing stores, presence of competitors, and general population density to inform Migros’ development strategy.
+3.Analyze market opportunities based on the density of existing stores, presence of competitors, and general population density to inform Migros’ development strategy.
 
 ### Technologies Used
 * Python
